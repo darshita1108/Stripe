@@ -1,1 +1,2 @@
-# Stripe
+ebook-seller
+
